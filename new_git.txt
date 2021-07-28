@@ -1,2 +1,2 @@
-Hello, I am working with git, it seems very confusing eh
-Hurraaayyyy, the first correction and push have worked properly, I am so glad.
+I dont knbow what happened and I did some changes to this file from the command line
+But now I am struggling to leave this env
