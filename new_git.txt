@@ -1,1 +1,2 @@
 Hello, I am working with git, it seems very confusing eh
+Hurraaayyyy, the first correction and push have worked properly, I am so glad.
