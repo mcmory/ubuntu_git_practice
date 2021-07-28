@@ -1,2 +1,3 @@
 I dont knbow what happened and I did some changes to this file from the command line
 But now I am struggling to leave this env
+Now I am learning how to insert text in the terminal to a text file
